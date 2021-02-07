@@ -1,0 +1,19 @@
+[user]
+	email = yuyuvn@mac.com
+	name = Clicia Scarlet
+	signingkey = $SIGNINGKEY
+[commit]
+	gpgsign = true
+[push]
+	default = current
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[author]
+	name = Clicia Scarlet
+	email = yuyuvn@mac.com
+[committer]
+	name = Clicia Scarlet
+	email = yuyuvn@mac.com
